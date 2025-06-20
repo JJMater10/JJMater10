@@ -64,7 +64,7 @@ Desarrollo back-end con PHP y SQL
   <a href= "https://instagram.com/jhan1717">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
-<a href="https://www.twitch.tv/valenwerle" >
+<a href="https://www.facebook.com/jhanjaider.alvareztovar?mibextid=ZbWKwL" >
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="https://www.linkedin.com/in/jhan-jaider-alvarez-tovar-a3a9a0348">
